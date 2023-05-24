@@ -621,7 +621,7 @@ alex@Ubuntu-Mak:~$ vagrant ssh nfss
  - заходим в каталог `/srv/share/upload`:
 ~~~
 [vagrant@nfss ~]$ cd /srv/share/upload/
-~~
+~~~
 
  - создаём тестовый файл `touch check_file`:
 ~~~
